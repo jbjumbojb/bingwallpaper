@@ -2,4 +2,4 @@
 
 @echo off
 
-powershell "bingwallper.ps1"
+powershell "bingwallaper.ps1"
